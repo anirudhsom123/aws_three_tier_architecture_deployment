@@ -1,5 +1,10 @@
 # aws_three_tier_architecture_deployment
 This is a porject for aws cloud beginner
+project purpose
+- CREATE HIGHLY AVAILABLE INFRA
+- CREATE FAULT TOLERANT INFRA
+- SCALABLE INFRA
+- HIGHLY SECURE INFRA
 
 
 
